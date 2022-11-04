@@ -35,8 +35,9 @@ gravatar = Gravatar(app,
                     force_lower=False,
                     use_ssl=False,
                     base_url=None)
-                    
 
+ 
+ 
 
 
 
